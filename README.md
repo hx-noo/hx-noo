@@ -46,8 +46,6 @@
 
 ### Web / Backend
 
-<!-- 학원에서 진행한 웹 프로젝트 2개 -->
-
 <table width="100%" style="border-collapse: collapse; border: 1px solid #d0d7de;">
 <tr>
 <td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 12px;">
@@ -76,7 +74,7 @@
 
 - **WebSocket 상태관리** &mdash; 시니어 음성 답변과 AI 질문 연결ㆍ검증 및 분석 결과 전달
 - **DB 모델링** &mdash; 사용자·대화·분석·리포트 등 **12개 테이블 스키마 구현**
-- **트랜잭션 처리** &mdash; 리포트 갱신 ·근거 대화  대화 갱신 **3개 작업을 단일 트랜잭션으로 처리**
+- **트랜잭션 처리** &mdash; 리포트 갱신·기존 근거 연결 삭제·새 연결 저장을 **단일 트랜잭션으로 처리**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
@@ -95,7 +93,7 @@
 
 **[수면 지표를 활용한 신체활동 예측: <br>스마트워치를 활용한 탐색적 연구](https://github.com/hx-noo/Capstone-Design-01)**
 
-`[2024. 11] 학부 캡스톤 디자인` <br> `학부 공동 개발: 2명`
+`[24.03 ~ 24.12] 학부 캡스톤 디자인` <br> `학부 공동 개발: 2명`
 
 - **갤럭시 워치6**로 수면 **12개**·운동 **9개** 지표 수집·전처리
 - 수면 후·운동 전후 **설문 3종 직접 설계**·신체·기분·수면 상태 기록
@@ -115,13 +113,12 @@
 </td>
 <td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 12px;">
 
-**전기차 배터리 화재 예방을 위한 <br>머신러닝 기반 예측 모델 비교 연구**
+**[전기차 배터리 화재 예방을 위한 <br>머신러닝 기반 예측 모델 비교 연구](https://github.com/hx-noo/Capstone-Design-02)**
 
-`[2025. 12] 학부 캡스톤 디자인` <br> `학부 공동 개발: 2명`
+`[25.03 ~ 25.12] 학부 캡스톤 디자인` <br> `학부 공동 개발: 2명`
 
-- **데이터 전처리** — 배터리 데이터 **7,565건** 정리·저항/용량 파생변수 생성
+- **데이터 전처리·변수 확장** — 배터리 데이터 **7,565건** 정리·저항 파생변수·SOC/SOH 대리 지표 추가
 - **회귀모델 비교·튜닝** — **3종** 모델 비교·**5-fold 교차검증**·파라미터 탐색
-- PyQt6 기반 **주변 온도 예측·배터리 상태 시각화 GUI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
@@ -129,7 +126,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=000)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=000)
 
 ![MLP](https://img.shields.io/badge/MLP-E76F51?style=flat-square)
@@ -142,9 +138,6 @@
 
 <br />
 
-## GitHub Activity
-
-<div align="center">
 
 
 
