@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="210" viewBox="0 0 840 210" role="img" aria-labelledby="title description">
+  <title id="title">HyunWoo Jung - Full Stack Developer</title>
+  <desc id="description">A transparent banner with a slowly turning organic green shape behind the name.</desc>
+  <defs>
+    <linearGradient id="green" x1="0" y1="0" x2="100%" y2="100%">
+      <stop offset="0" stop-color="#31684b" />
+      <stop offset="1" stop-color="#163b2b" />
+    </linearGradient>
+  </defs>
+  <style>
+    .shape { transform-origin: 420px 108px; animation: turn 18s ease-in-out infinite; }
+    .blob { animation: morph 12s ease-in-out infinite; }
+    @keyframes turn {
+      0%, 100% { transform: rotate(-12deg); }
+      50% { transform: rotate(20deg); }
+    }
+    @keyframes morph {
+      0%, 100% { d: path("M370 52 C398 28 458 31 478 61 C503 98 476 160 443 177 C402 197 355 167 351 128 C347 94 347 72 370 52Z"); }
+      50% { d: path("M370 52 C405 29 462 44 478 75 C495 111 469 164 429 178 C390 192 350 157 351 119 C352 87 346 68 370 52Z"); }
+    }
+    @media (prefers-reduced-motion: reduce) { .shape, .blob { animation: none; } }
+  </style>
+  <g class="shape">
+    <path class="blob" d="M370 52 C398 28 458 31 478 61 C503 98 476 160 443 177 C402 197 355 167 351 128 C347 94 347 72 370 52Z" fill="url(#green)" />
+  </g>
+  <text x="420" y="99" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="0.4" fill="#286342" stroke="#e6f3e9" stroke-width="2" stroke-linejoin="round" paint-order="stroke fill">HyunWoo Jung</text>
+  <text x="420" y="137" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="0.7" fill="#286342" stroke="#e6f3e9" stroke-width="2" stroke-linejoin="round" paint-order="stroke fill">Full Stack Developer</text>
+</svg>
