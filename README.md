@@ -2,13 +2,14 @@
 
 <div align="center">
 
+<img src="./assets/profile-header.svg" width="840" alt="HyunWoo Jung · Full Stack Developer" />
+
+**데이터를 이해하고 서비스로 연결하는 개발자**
+
 <br />
 
-<!-- Profile, Blog, Email의 #about-me를 실제 주소로 변경하세요. 이메일은 mailto:이메일주소 형식입니다. -->
-[![Notion](https://img.shields.io/badge/Profile-000?style=flat-square&logo=notion&logoColor=fff)](#about-me)&nbsp;
-[![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=fff)](#about-me)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=fff)](#about-me)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/hx-noo)
+[![Profile](https://img.shields.io/badge/Profile-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/41ee1cb8959a803ca882fac72c8914cf)&nbsp;
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@jung_hyunwoo/posts)
 
 </div>
 
@@ -42,9 +43,7 @@
 
 ## Projects
 
-<!-- 웹 프로젝트 내용은 로컬 저장소의 코드와 정현우 작성 커밋을 대조했습니다. 진행 기간은 실제 프로젝트 일정에 맞게 입력하세요. -->
-
-### Web / Backend
+### Web
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #d0d7de;">
 <tr>
@@ -86,7 +85,8 @@
 </tr>
 </table>
 
-### Data Analysis / Machine Learning 
+### Data Analysis & Machine Learning
+
 <table width="100%" style="border-collapse: collapse; border: 1px solid #d0d7de;">
 <tr>
 <td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 12px;">
@@ -97,7 +97,7 @@
 
 - **갤럭시 워치6**로 수면 **12개**·운동 **9개** 지표 수집·전처리
 - 수면 후·운동 전후 **설문 3종 직접 설계**·신체·기분·수면 상태 기록
-- Random Forest·XGBoost·LightGBM·KNN **4종 비교**
+- **공개 데이터 기반 모델링** — 수면 점수 예측 회귀모델 **4종 비교·KNN 선정**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
@@ -118,7 +118,7 @@
 `[25.03 ~ 25.12] 학부 캡스톤 디자인` <br> `학부 공동 개발: 2명`
 
 - **데이터 전처리·변수 확장** — 배터리 데이터 **7,565건** 정리·저항 파생변수·SOC/SOH 대리 지표 추가
-- **회귀모델 비교·튜닝** — **3종** 모델 비교·**5-fold 교차검증**·파라미터 탐색
+- **주변 온도 예측·튜닝** — 회귀모델 **3종** 비교·**5-fold 교차검증**·파라미터 탐색
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
@@ -137,7 +137,6 @@
 </table>
 
 <br />
-
 
 
 
