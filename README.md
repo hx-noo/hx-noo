@@ -9,7 +9,7 @@
 <br />
 
 [![Profile](https://img.shields.io/badge/Profile-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/41ee1cb8959a803ca882fac72c8914cf)&nbsp;
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@jung_hyunwoo/posts)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@jung_hyunwoo/posts)&nbsp;
 
 </div>
 
@@ -64,6 +64,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=fff)
 
+[구현·문제 해결 ↗](./docs/sunscreen-backend.md)
+
 </td>
 <td width="50%" valign="top" style="border: 1px solid #d0d7de; padding: 12px;">
 
@@ -80,6 +82,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/WebSocket-4B8BBE?style=flat-square)
+
+[구현·문제 해결 ↗](./docs/senior-conversation-backend.md)
 
 </td>
 </tr>
